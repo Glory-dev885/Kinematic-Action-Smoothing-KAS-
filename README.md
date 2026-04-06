@@ -1,1 +1,1 @@
-# Kinematic Action Smoothing(KAS)
+# Kinematic Action Smoothing (KAS)
