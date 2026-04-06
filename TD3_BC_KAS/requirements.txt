@@ -1,0 +1,9 @@
+torch==1.13.1
+numpy==1.21.6
+scipy==1.7.3
+gym==0.23.1
+d4rl==1.1
+mujoco==2.3.6
+tqdm==4.67.1
+pandas
+matplotlib

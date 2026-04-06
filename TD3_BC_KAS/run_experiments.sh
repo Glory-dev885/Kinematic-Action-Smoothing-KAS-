@@ -1,0 +1,12 @@
+python main.py \
+  --normalize \
+  --models_dir "./models" \
+  --aggregate_all_envs \
+  --seed_start 0 --seed_end 4 \
+  --eval_only --ab_test \
+  --blend_beta 0.90 \
+  --gate_R_mult 20 \
+  --gate_frac 0.05 \
+  --kalman_Q 1.0 \
+  --kalman_R 0.05 \
+  --out_csv "./TD3_BC_KAS.csv"
